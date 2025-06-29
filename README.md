@@ -17,8 +17,3 @@ Status
 ![GitHub followers](https://img.shields.io/github/followers/anacarolcord?style=flat-square&label=Followers)
 ![GitHub stars](https://img.shields.io/github/stars/anacarolcord?style=flat-square&label=Stars)
 
-Gosto de resolver problemas, tocar violão, matemágica, café, cachorrinhos...
-
-![Dog Lover](https://img.shields.io/badge/-Dog%20Lover-faa61a?style=flat-square&logo=dog&logoColor=white)
-![Coffee](https://img.shields.io/badge/Coffee-%E2%98%95-brightgreen)
-![Guitar Lover 🎸](https://img.shields.io/badge/Guitar-Lover-ff69b4?style=flat-square)
