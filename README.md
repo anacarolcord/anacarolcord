@@ -1,5 +1,7 @@
 Oie!!!
 Sou a Ana, sou estudante e programadora, apaixonada por tecnologia e por run sem errooo.
+
+
 Linguagens e ferramentas que uso em minhas aplicações: 
 
 
